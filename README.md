@@ -9,5 +9,5 @@
 - Rectangle: P = 2a + 2b
 - Square: P = 4a
 
-## Pquared difference
+## Squared difference
 - (a-b)2 = a2 - 2ab + b2
